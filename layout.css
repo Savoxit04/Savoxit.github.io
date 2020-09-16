@@ -1,0 +1,63 @@
+body{
+    background-image: url(img/bg.png);
+    background-color: darkkhaki;
+}
+
+.container{
+    width: 800px;
+    margin: auto;
+    background-color: darkgrey;
+    font-family: 'Kufam', cursive;
+}
+.header{
+    padding: 6px;
+    padding-bottom: 0px;
+    display: inline;
+}
+.navbar{
+    overflow: hidden;
+    background-color: rgb(52, 53, 54);
+}
+.navbar a{
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+    font-family: monospace;
+}
+.navbar a:hover{
+    background-color: white;
+    color: black;
+}
+.foto{
+    height: 200px;
+    background-image: url(img/r.png);
+    background-position:center ;
+    background-size: cover; 
+}
+.content{
+    padding: 15px;
+    padding-top: 4px;
+}
+p a{
+    text-decoration: none;
+    color: red;
+}
+.kaki{
+    background-color:rgb(52, 53, 54); 
+    padding: 6px;
+}
+.sv{
+    text-align: center;
+    color: whitesmoke;
+    font-family: monospace;
+}
+.logo{
+    padding: 10px;
+    text-align: center;
+}
+.icon a{
+    color: aqua;
+}
