@@ -1,0 +1,10 @@
+.content{
+    background-color: skyblue;
+    border: 1px solid;
+    border-radius: 30px;
+    margin: 0px 300px;
+    padding: 10px 15px;
+}
+.date{
+    text-align: center;
+}
