@@ -190,7 +190,7 @@ transform: rotateY(180deg);
     margin-top: 40px;
 }
 .kontak{
-    background-image: url(/web-tourney/html/images/setup.jpeg) !important; 
+    background-image: url(/html/images/setup.jpeg) !important; 
     background-attachment: fixed;
     text-shadow: 2px 2px 4px #000000;
     color: white;
